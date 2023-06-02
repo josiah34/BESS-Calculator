@@ -22,4 +22,14 @@ batteries, power electronics, cables, transformers, and system peripherals.
 Other factors such as power usage, environmental conditions, battery charge
 level, and system operation mode also impact efficiency.
 
+### Instructions
 
+
+
+Install requirements:
+
+```pip install -r requirement.txt```
+
+
+To run test:
+```pytest -v``` the -v is for additional information 
