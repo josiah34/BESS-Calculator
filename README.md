@@ -33,3 +33,5 @@ Install requirements:
 
 To run test:
 ```pytest -v``` the -v is for additional information 
+![bess-output](https://github.com/josiah34/BESS-Calculator/assets/25124463/b4aa6f97-bfb8-4ada-a5ca-22fcc9f6372e)
+![test-bess](https://github.com/josiah34/BESS-Calculator/assets/25124463/9c609815-0bb6-49e9-8ce5-891d32d9a004)
