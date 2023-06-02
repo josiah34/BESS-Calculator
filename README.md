@@ -28,7 +28,7 @@ level, and system operation mode also impact efficiency.
 
 Install requirements:
 
-```pip install -r requirement.txt```
+```pip install -r requirements.txt```
 
 
 To run test:
